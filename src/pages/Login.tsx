@@ -13,7 +13,7 @@ import {
   WarningIcon,
   LabelForm,
   ButtonSignIn,
-} from "../../../../tex_zadany_only_v2/my-app/src/components/Styled";
+} from "../components/Styled";
 
 interface IUser {
   login: string;
